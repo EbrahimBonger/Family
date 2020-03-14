@@ -1,2 +1,2 @@
 # Family
-Comman line testing
+Command line testing
